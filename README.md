@@ -32,7 +32,7 @@ Welcome to my GitHub! I am currently building a solid foundation in offensive se
 ### 🎯 CTF & Penetration Testing Progress
 <p align="center">
   <a href="https://tryhackme.com/p/Kbsoide21">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Kbsoide21.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kbsoide21.png" alt="TryHackMe Badge" />
   </a>
 </p>
 

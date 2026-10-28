@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hola, soy Daniel 👨‍💻
+Estudiante de Ingeniería de Software y apasionado de la Ciberseguridad.
+Actualmente practicando Pentesting y construyendo laboratorios en entornos Linux.
 
+### 📊 Mis Estadísticas
+[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kbsoide21&show_icons=true&theme=radical)](https://github.com/Kbsoide21)
+
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbsoide21&layout=compact&theme=radical)](https://github.com/Kbsoide21)
 <!--
 **Kbsoide21/Kbsoide21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -30,9 +30,27 @@ Welcome to my GitHub! I am currently building a solid foundation in offensive se
 ---
 
 ### 🎯 CTF & Penetration Testing Progress
-<p align="center">
-  <a href="https://tryhackme.com/p/Kbsoide21">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/kbsoide21.png?v=1" alt="TryHackMe Badge" />
+
+**🏅 Verified TryHackMe Achievements:**
+<p align="left">
+  <a href="https://tryhackme.com/Kbsoide21/badges/terminaled">
+    <img src="https://img.shields.io/badge/Badge-Terminaled-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Terminaled" />
+  </a>
+  <a href="https://tryhackme.com/Kbsoide21/badges/first-4-rooms">
+    <img src="https://img.shields.io/badge/Badge-First_4_Rooms-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="First 4 Rooms" />
+  </a>
+  <a href="https://tryhackme.com/Kbsoide21/badges/3-day-streak">
+    <img src="https://img.shields.io/badge/Streak-3_Days_🔥-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="3 Day Streak" />
+  </a>
+  <br>
+  <a href="https://tryhackme.com/Kbsoide21/badges/network-fundamentals">
+    <img src="https://img.shields.io/badge/Path-Network_Fundamentals-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Network Fundamentals" />
+  </a>
+  <a href="https://tryhackme.com/Kbsoide21/badges/web-fund">
+    <img src="https://img.shields.io/badge/Path-Web_Fundamentals-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Web Fundamentals" />
+  </a>
+  <a href="https://tryhackme.com/Kbsoide21/badges/world-wide-web">
+    <img src="https://img.shields.io/badge/Badge-World_Wide_Web-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="World Wide Web" />
   </a>
 </p>
 
